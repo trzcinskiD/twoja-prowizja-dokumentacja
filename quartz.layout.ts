@@ -6,7 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Comments({
+/*     Component.Comments({
       provider: "giscus",
       options: {
         // from data-repo
@@ -18,7 +18,7 @@ export const sharedPageComponents: SharedLayout = {
         // from data-category-id
         categoryId: "DIC_kwDOOA-Lb84CnbdC",
       },
-    }),
+    }), */
   ],
   footer: Component.Footer(),
 }
@@ -41,10 +41,10 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph({
       globalGraph: {
-        fontSize: 0.1,
+        fontSize: 0.4,
       },
       localGraph: {
-        fontSize: 0.1,
+        fontSize: 0.4,
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
