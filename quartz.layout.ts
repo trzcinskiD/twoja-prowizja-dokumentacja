@@ -5,7 +5,21 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        // from data-repo
+        repo: "trzcinskiD/twoja-prowizja-dokumentacja",
+        // from data-repo-id
+        repoId: "R_kgDOOA-Lbw",
+        // from data-category
+        category: "Announcements",
+        // from data-category-id
+        categoryId: "DIC_kwDOOA-Lb84CnbdC",
+      },
+    }),
+  ],
   footer: Component.Footer(),
 }
 
@@ -21,11 +35,18 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
+    //Component.Darkmode(),
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      globalGraph: {
+        fontSize: 0.1,
+      },
+      localGraph: {
+        fontSize: 0.1,
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -38,7 +59,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
+    //Component.Darkmode(),
     Component.Explorer(),
   ],
   right: [],
