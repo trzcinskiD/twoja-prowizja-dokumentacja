@@ -18,7 +18,7 @@ Weryfikacja czy numer telefonu użytkownika jest poprawnie połączony z systeme
 
 - Numer telefonu użytkownika pobrany z ekranu szczegółów użytkownika
 - Parametry zapytania do API Callyzer:
-  - emp_numbers: [numer_telefonu] - tablica zawierająca numer telefonu użytkownika
+  - emp_numbers: numer_telefonu - tablica zawierająca numer telefonu użytkownika
   - page_size: 1 - ograniczenie wyników do jednego rekordu
 
 ### Kroki

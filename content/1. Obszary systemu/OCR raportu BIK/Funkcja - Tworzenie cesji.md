@@ -75,7 +75,7 @@ Utworzenie cesji na podstawie odczytanych danych
         - scoringJakości: scoring odczytu dla danego kredytu
         - kredytObsługiwanyNotarialnie: czy kredyt ma być obsługiwany notarialnie
      - Wywołaj funkcję automatycznego uzupełnienia dla utworzonej cesji:
-       [[Funkcja - Automatyczne uzupełnienie numerów cesji i kwot]]
+       [[Funkcja - Automatyczne uzupełnienie numeru cesji oraz kwoty przelewu]]
 6. Zmień status Leada na "Otrzymano raport BIK"
 7. Dla każdej utworzonej cesji wyślij powiadomienie email do doradcy klienta z komunikatem:
    - Gdy utworzono 1 cesję → "Dla Twojego klienta [imię] [nazwisko] został przetworzony raport BIK. Utworzono nową cesję dla [nazwa instytucji bankowej]. Przejdź do systemu, aby rozpocząć pracę nad cesją."
@@ -90,4 +90,4 @@ Utworzenie cesji na podstawie odczytanych danych
 ## Powiązania
 
 - Ekrany: [[Ekran - OCR dokumentów z BIK]]
-- Funkcje: [[Funkcja - Automatyczne uzupełnienie numerów cesji i kwot]]
+- Funkcje: [[Funkcja - Automatyczne uzupełnienie numeru cesji oraz kwoty przelewu]]

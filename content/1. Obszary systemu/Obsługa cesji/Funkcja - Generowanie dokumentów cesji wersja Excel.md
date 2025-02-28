@@ -2,8 +2,6 @@
 Estimation: 4
 ---
 
-# Funkcja - Generowanie dokumentów cesji w formacie Excel
-
 ## Cel
 
 Funkcja umożliwia wygenerowanie pliku Excel zawierającego dane cesji dla jednej lub wielu cesji. Plik ten służy jako źródło danych do późniejszego wygenerowania dokumentów Word poza systemem.

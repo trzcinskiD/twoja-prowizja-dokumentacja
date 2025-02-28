@@ -2,7 +2,6 @@
 Estimation: 3
 ---
 
-# Funkcja - Zarządzanie komentarzami leada
 
 ## Cel
 

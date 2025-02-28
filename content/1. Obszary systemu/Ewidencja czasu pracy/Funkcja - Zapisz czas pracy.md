@@ -1,9 +1,6 @@
 ---
 Estimation: 2
 ---
-
-# Funkcja - Zapisz czas pracy
-
 ## Cel
 
 Zapisanie dziennego czasu pracy i szkoleń/przerw dla doradcy BIK lub Cesji.

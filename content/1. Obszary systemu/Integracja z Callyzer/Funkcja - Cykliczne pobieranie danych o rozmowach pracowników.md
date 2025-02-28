@@ -29,7 +29,7 @@ Automatyczne pobieranie i przetwarzanie danych o rozmowach pracowników z system
 
 2. Wykonaj zbiorcze zapytanie do API Callyzer:
    - Parametry:
-     - emp_numbers: [lista_wszystkich_numerów_doradców]
+     - emp_numbers: lista_wszystkich_numerów_doradców
      - start_date: najstarsza_data_synchronizacji
      - end_date: aktualna_data
    - Obsługa błędów:
@@ -57,7 +57,7 @@ Automatyczne pobieranie i przetwarzanie danych o rozmowach pracowników z system
 
 4. Pobierz zbiorcze statystyki doradców z API Callyzer:
    - Parametry:
-     - emp_numbers: [lista_wszystkich_numerów_doradców]
+     - emp_numbers: lista_wszystkich_numerów_doradców
      - start_date: najstarsza_data_synchronizacji
      - end_date: aktualna_data
    - Zapisz gotowe statystyki:
@@ -81,5 +81,5 @@ Automatyczne pobieranie i przetwarzanie danych o rozmowach pracowników z system
 
 ## Powiązania
 
-- Ekrany: [[Ekran - Szczegóły leada]], [[Ekran - Wyświetlenie statystyk zespołu]]
+- Ekrany: [[Ekran - Szczegóły leada]], [[Ekran - Wyświetlanie statystyk zespołu Doradców BIK]], [[Ekran - Wyświetlanie statystyk zespołu Doradców Cesje]]
 - Dokumentacja API systemu Callyzer: [Link do dokumentacji API](https://developers.callyzer.co/)

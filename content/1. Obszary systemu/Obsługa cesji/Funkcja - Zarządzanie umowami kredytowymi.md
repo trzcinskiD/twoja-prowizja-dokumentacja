@@ -2,8 +2,6 @@
 Estimation: 5
 ---
 
-# Funkcja - Zarządzanie umowami kredytowymi
-
 ## Cel
 
 Umożliwienie dodawania, edycji i usuwania umów kredytowych w ramach cesji.

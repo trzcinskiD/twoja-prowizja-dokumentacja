@@ -44,5 +44,4 @@ Bezpieczna zmiana hasła użytkownika poprzez proces weryfikacji email
 
 ## Powiązania
 
-- Ekrany:
-  - [[Twoja Prowizja/1. Moduły systemu/Moduł autoryzacji/Ekran - Reset hasła|Ekran - Reset hasła]]
+- Ekrany: [[Twoja Prowizja/1. Obszary systemu/Autoryzacja/Ekran - Reset hasła|Ekran - Reset hasła]]

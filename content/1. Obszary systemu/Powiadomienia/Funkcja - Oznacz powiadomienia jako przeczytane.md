@@ -35,7 +35,7 @@ Dane z [[Element - Modal powiadomień]]:
    - Zapisz zmiany w bazie danych
 
 3. Przygotuj podsumowanie:
-   - Gdy sukces → "Oznaczono [X] powiadomień jako przeczytane"
+   - Gdy sukces → "Oznaczono X powiadomień jako przeczytane"
    - Gdy brak zmian → "Wszystkie powiadomienia są już przeczytane"
 
 ### Dane wyjściowe

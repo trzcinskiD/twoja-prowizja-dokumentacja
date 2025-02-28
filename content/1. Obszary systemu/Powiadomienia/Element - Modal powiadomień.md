@@ -2,7 +2,6 @@
 Estimation: 4
 ---
 
-# Element - Modal powiadomień
 
 ## Przeznaczenie
 

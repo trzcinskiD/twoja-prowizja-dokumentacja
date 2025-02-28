@@ -2,7 +2,6 @@
 Estimation: 5
 ---
 
-# Funkcja - Zarządzanie umowami kredytowymi leada
 
 ## Cel
 

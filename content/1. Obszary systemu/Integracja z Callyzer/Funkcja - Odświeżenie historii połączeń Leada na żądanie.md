@@ -1,9 +1,6 @@
 ---
 Estimation: 3
 ---
-
-# Funkcja - Odświeżenie historii połączeń leada
-
 ## Cel
 
 Natychmiastowe pobranie i wyświetlenie aktualnej historii połączeń dla konkretnego leada poprzez integrację z systemem Callyzer.

@@ -2,7 +2,6 @@
 Estimation: 4
 ---
 
-# Funkcja - Weryfikacja numeru nadania poczty polskiej
 
 ## Cel
 

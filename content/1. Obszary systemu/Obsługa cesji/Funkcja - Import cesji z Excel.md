@@ -88,5 +88,5 @@ Import danych cesji wraz z powiązanymi leadami z pliku Excel według określone
 
 ## Powiązania
 
-- [[Modal - Import cesji z Excel]]
+- [[Element - Modal Importu cesji z Excel]]
 - Szablon Excel: [Szablon Excel do eksportu danych cesji](https://docs.google.com/spreadsheets/d/1BJwEwv-tcCWIIVP3iKRJCjCUFhtMzRkj/edit?usp=drive_link&ouid=112953634265814180095&rtpof=true&sd=true)

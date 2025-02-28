@@ -42,4 +42,4 @@ Usunięcie leada z systemu
 
 ## Powiązania
 
-- Ekrany: [[Ekran - Zarządzanie leadami]]
+- Ekrany: [[Ekran - Szczegóły leada]], [[Ekran - Lista leadów]]

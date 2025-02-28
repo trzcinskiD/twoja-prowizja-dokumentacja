@@ -2,8 +2,6 @@
 Estimation: 2
 ---
 
-# Ekran - Menu nawigacyjne aplikacji
-
 ## Cel ekranu
 
 - Zapewnienie spójnego układu aplikacji oraz intuicyjnej nawigacji pomiędzy wszystkimi funkcjonalnościami systemu
@@ -25,8 +23,9 @@ Estimation: 2
   - {OCR odpowiedzi z banku} -> przekierowanie do [[Ekran - OCR odpowiedzi z banku]]
     - Dostępne tylko dla roli Administrator
   - {Ewidencja czasu pracy} -> przekierowanie do [[Ekran - Ewidencja czasu pracy]]
-  - {Statystyki zespołów} -> przekierowanie do [[Ekran - Wyświetlenie statystyk zespołu]]
-  - {Konfiguracja celów zespołów} -> przekierowanie do [[Ekran - Konfiguracja celów zespołów]]
+  - {Statystyki zespołu Doradcy BIK} -> przekierowanie do [[Ekran - Wyświetlanie statystyk zespołu Doradców BIK]]
+  - {Statystyki zespołu Doradcy Cesje} -> przekierowanie do [[Ekran - Wyświetlanie statystyk zespołu Doradców Cesje]]
+  - {Konfiguracja celów zespołów} -> przekierowanie do [[Ekran - Konfiguracja celów zespołu]]
     - Dostępne tylko dla roli Administrator, Kierownik zespołu, Szef działu
   - {Instytucje bankowe} -> przekierowanie do [[Ekran - Lista instytucji bankowych]]
     - Dostępne tylko dla roli Administrator

@@ -84,7 +84,7 @@ sequenceDiagram
    - Znajdź najstarszą datę ostatniej synchronizacji
    - Wykonaj zbiorcze zapytanie do API Callyzer:
      - Parametry:
-       - emp_numbers: [lista_wszystkich_numerów_doradców]
+       - emp_numbers: lista_wszystkich_numerów_doradców
        - synced_from: najstarsza_data_synchronizacji - 1 dzień (bufor bezpieczeństwa)
        - synced_to: aktualna_data
      - Obsługa błędów:
@@ -127,7 +127,7 @@ sequenceDiagram
 
 ## Powiązania
 
-- Ekrany: [[Ekran - Szczegóły leada]], [[Ekran - Wyświetlenie statystyk zespołu]]
+- Ekrany: [[Ekran - Szczegóły leada]], [[Ekran - Wyświetlanie statystyk zespołu Doradców BIK]], [[Ekran - Wyświetlanie statystyk zespołu Doradców Cesje]]
 - Procesy: [[Funkcja - Cykliczne pobieranie danych o rozmowach pracowników]]
 - Dokumentacja API systemu Callyzer: [Link do dokumentacji API](https://developers.callyzer.co/)
 

@@ -2,8 +2,6 @@
 Estimation: 1
 ---
 
-# Funkcja - Wyświetlanie danych użytkownika
-
 ## Cel
 
 Wyświetlenie danych profilowych zalogowanego użytkownika w sekcji "Mój profil".

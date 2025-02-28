@@ -74,4 +74,4 @@ Estimation: 8
   - {Ostatnie logowanie}: data i godzina ostatniego logowania
   - {Liczba obsługiwanych leadów}: dla roli Doradca klienta BIK
   - {Liczba aktywnych cesji}: dla roli Doradca klienta Cesje
-  - {Link do szczegółowych statystyk} -> przekierowanie do [[Ekran - Wyświetlenie statystyk zespołu]] z prefiltrowanym zespołem użytkownika
+  - {Link do szczegółowych statystyk} -> przekierowanie do [[Ekran - Wyświetlanie statystyk zespołu Doradców BIK]] lub [[Ekran - Wyświetlanie statystyk zespołu Doradców Cesje]] z prefiltrowanym zespołem użytkownika

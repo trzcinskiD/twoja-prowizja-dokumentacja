@@ -61,7 +61,7 @@ sequenceDiagram
    - Gdy brak aktywnych powiązań → kontynuuj
 
 3. System wyświetla modal potwierdzenia z komunikatem:
-   - "Czy na pewno chcesz usunąć instytucję [Nazwa]?"
+   - "Czy na pewno chcesz usunąć instytucję {Nazwa}?"
    - {Anuluj} → zamyka modal
    - {Usuń} → kontynuuj
 
